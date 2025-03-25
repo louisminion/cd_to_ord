@@ -1,5 +1,5 @@
 # cd_to_ord
-Convert Circular Dichroism spectra to Optical Rotation via the Kramers-Kronig transform.
+Open source tool to Convert Circular Dichroism spectra to Optical Rotation via the Kramers-Kronig transform.
 
 Usage:
 ```console
